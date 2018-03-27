@@ -93,7 +93,7 @@ ins {
 	max-width: 35%;
 	padding: 3% 5% 3% 5%;
 	float: right;
-	background: rgba(255,255,255,0.8);
+	background: rgba(255,255,255,0.85);
 }
 
 .button {
@@ -120,8 +120,9 @@ ins {
 	box-sizing: border-box;
 	display: inline-block;
 	max-width: 33%;
-	padding: 4%;
+	padding: 2% 4% 2% 4%;
 	border-right: 1px solid #c6c6c6;
+	margin: 2% 0;
 }
 
 .block:last-child {
